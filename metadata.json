@@ -1,0 +1,9 @@
+{
+  "name": "RoadSidePro: AI Automotive & Cycle Repair",
+  "description": "An all-in-one mobile roadside assistance platform for automotive and bicycle repairs featuring AI-driven diagnostics, local service discovery with Google Maps, up-to-date repair data with Google Search, and advanced vehicle visualization using Veo and Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
